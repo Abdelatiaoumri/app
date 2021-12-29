@@ -80,7 +80,7 @@ main{
     border: 3px solid orange;
     animation-name: B2;
     animation-duration: 12s;
-    animation-iteration-count: infinite; 
+    animation-iteration-count: infinite;
 }
 #boxh2{
      background: red; 
