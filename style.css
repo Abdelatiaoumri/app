@@ -78,9 +78,9 @@ main{
     transform: translate(-50% -50%);
     border-radius: 50%;
     border: 3px solid orange;
-    /* animation-name: B2;
+    animation-name: B2;
     animation-duration: 12s;
-    animation-iteration-count: infinite; */
+    animation-iteration-count: infinite; 
 }
 #boxh2{
      background: red; 
